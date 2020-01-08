@@ -1,6 +1,5 @@
 # MIMIC_Suicide_detection
-
-# MIMIC_Suicide_detection
+Extract clinical notes from MIMIC dataset that are relevant to the suicidal events.
 
 ## Requirements
 Python version: 3.6.2
