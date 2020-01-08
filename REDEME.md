@@ -1,4 +1,4 @@
-# MIMIC clinical notes for suicide detection
+# MIMIC_Suicide_detection
 
 ## Requirements
 Python version: 3.6.2
